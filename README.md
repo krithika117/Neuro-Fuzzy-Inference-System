@@ -6,3 +6,8 @@
 or <br>
 
 ```python3 install setup.py```
+
+Then cd to tests.py and
+<br>
+
+```python3 tests.py```
